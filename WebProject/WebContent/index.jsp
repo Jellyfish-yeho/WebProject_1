@@ -18,7 +18,7 @@
 		<select name="dinner" id="">
 			<option value="1">마라탕</option>
 			<option value="2">삼겹살</option>
-			<option value="3">굶기</option>
+			<option value="3" disabled>굶기</option>
 		</select>
 	</form>
 </div>
