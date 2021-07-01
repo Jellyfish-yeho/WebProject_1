@@ -19,6 +19,8 @@
 			<option value="1">마라탕</option>
 			<option value="2">삼겹살</option>
 			<option value="3" disabled>굶기</option>
+			<option value="4">제육볶음</option>
+			<option value="5">파스타</option>
 		</select>
 	</form>
 </div>
