@@ -28,7 +28,7 @@
 		<li><a href="">해리</a></li>
 		<li><a href="">재은님</a></li>
 		<li><a href="test/NewFile.jsp">민경님</a></li>
-		<li><a href="">세란님</a></li>
+		<li><a href="test/NewFile2.jsp">세란님</a></li>
 	</ul>
 </div>
 </body>
