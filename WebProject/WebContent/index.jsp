@@ -26,9 +26,9 @@
 	<p>완료되면 제가 merge하고, 다시 받아가 봅시다!.</p>
 	<ul>
 		<li><a href="">해리</a></li>
-		<li><a href="JAEEUN/NewFile.html">재은님</a></li>
-		<li><a href="">민경님</a></li>
-		<li><a href="SERAN/NewFile.html">세란님</a></li>
+		<li><a href="">재은님</a></li>
+		<li><a href="test/NewFile.jsp">민경님</a></li>
+		<li><a href="test/NewFile2.jsp">세란님</a></li>
 	</ul>
 </div>
 </body>
